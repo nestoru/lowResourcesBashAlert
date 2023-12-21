@@ -1,3 +1,5 @@
+[![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=58F9TDDRBND4L)
+
 # lowResourcesBashAlert
 Minimalistic Linux low resources monitoring script. Not perfect but most likely good enough for 99% of cases out there ;-)
 
